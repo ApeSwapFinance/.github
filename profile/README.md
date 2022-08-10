@@ -1,5 +1,4 @@
 ```
-/*
   ______                     ______                                 
  /      \                   /      \                                
 |  ▓▓▓▓▓▓\ ______   ______ |  ▓▓▓▓▓▓\__   __   __  ______   ______  
@@ -12,15 +11,18 @@
          | ▓▓                                             | ▓▓      
          | ▓▓                                             | ▓▓      
           \▓▓                                              \▓▓         
- * App:             https://apeswap.finance
- * Medium:          https://ape-swap.medium.com
- * Twitter:         https://twitter.com/ape_swap
- * Discord:         https://discord.com/invite/apeswap
- * Telegram:        https://t.me/ape_swap
- * Announcements:   https://t.me/ape_swap_news
- * GitHub:          https://github.com/ApeSwapFinance
- */
 ```
+
+- 📰 Medium (Our Blog): https://ape-swap.medium.com
+- 🐦 Twitter: https://twitter.com/ape_swap
+- 💬 Telegram Main Group: https://t.me/ape_swap
+- 💬 Telegram Announcements: https://t.me/ape_swap_news
+- 🖥 GitHub: https://github.com/ApeSwapFinance
+- 🤳 Instagram: https://instagram.com/apeswap.finance
+- 🤩 Reddit: https://www.reddit.com/r/Apeswap
+- 👾 Discord: https://discord.gg/ApeSwap
+
+Interested in learning more about ApeSwap.Finance? Head over to our [official documentation](https://apeswap.gitbook.io/apeswap-finance/welcome/master) to read and learn more about our features, functionality, DAO, and ecosystem!
 
 <!--
 
