@@ -19,7 +19,7 @@
  * Announcements:   https://t.me/ape_swap_news
  * Discord:         https://discord.com/ApeSwap
  * Reddit:          https://reddit.com/r/ApeSwap
- * Instagram:       https://instagram.com/ApeSwap.finance/
+ * Instagram:       https://instagram.com/ApeSwap.finance
  * GitHub:          https://github.com/ApeSwapFinance
  */
 ```
