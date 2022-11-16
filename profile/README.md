@@ -20,7 +20,7 @@ pragma solidity 0.X.X;
  * Twitter:         https://twitter.com/ape_swap
  * Telegram:        https://t.me/ape_swap
  * Announcements:   https://t.me/ape_swap_news
- * Discord:         https://discord.com/ApeSwap
+ * Discord:         https://apeswap.click/discord
  * Reddit:          https://reddit.com/r/ApeSwap
  * Instagram:       https://instagram.com/ApeSwap.finance
  * GitHub:          https://github.com/ApeSwapFinance
@@ -32,7 +32,7 @@ pragma solidity 0.X.X;
 - 🐦 Twitter: https://twitter.com/ape_swap
 - 💬 Telegram Main Group: https://t.me/ape_swap
 - 💬 Telegram Announcements: https://t.me/ape_swap_news
-- 👾 Discord: https://discord.gg/ApeSwap
+- 👾 Discord: https://apeswap.click/discord
 - 🤩 Reddit: https://reddit.com/r/ApeSwap
 - 🤳 Instagram: https://instagram.com/ApeSwap.finance
 - 🖥 GitHub: https://github.com/ApeSwapFinance
