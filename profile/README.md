@@ -16,25 +16,25 @@ pragma solidity 0.X.X;
          | ▓▓                                             | ▓▓      
           \▓▓                                              \▓▓         
  * App:             https://ApeSwap.finance
- * Medium:          https://ape-swap.medium.com
- * Twitter:         https://twitter.com/ape_swap
- * Telegram:        https://t.me/ape_swap
- * Announcements:   https://t.me/ape_swap_news
- * Discord:         https://ApeSwap.click/discord
+ * Medium:          https://ApeBond.medium.com
+ * Twitter:         https://twitter.com/ApeBond
+ * Telegram:        https://t.me/ape_bond
+ * Announcements:   https://t.me/ApeBond_news
+ * Discord:         https://ApeBond.click/discord
  * Reddit:          https://reddit.com/r/ApeSwap
- * Instagram:       https://instagram.com/ApeSwap.finance
+ * Instagram:       https://instagram.com/ape.bond
  * GitHub:          https://github.com/ApeSwapFinance
  */
 ```
 
 - 🌈 App: https://ApeSwap.finance
-- 📰 Medium (Our Blog): https://ape-swap.medium.com
-- 🐦 Twitter: https://twitter.com/ape_swap
-- 💬 Telegram Main Group: https://t.me/ape_swap
-- 💬 Telegram Announcements: https://t.me/ape_swap_news
-- 👾 Discord: https://ApeSwap.click/discord
+- 📰 Medium (Our Blog): https://ApeBond.medium.com
+- 🐦 Twitter: https://twitter.com/ApeBond
+- 💬 Telegram Main Group: https://t.me/ape_bond
+- 💬 Telegram Announcements: https://t.me/ApeBond_news
+- 👾 Discord: https://ApeBond.click/discord
 - 🤩 Reddit: https://reddit.com/r/ApeSwap
-- 🤳 Instagram: https://instagram.com/ApeSwap.finance
+- 🤳 Instagram: https://instagram.com/ape.bond
 - 🖥 GitHub: https://github.com/ApeSwapFinance
 
 Interested in learning more about ApeSwap.Finance? Head over to our [official documentation](https://apeswap.gitbook.io/apeswap-finance/welcome/master) to read and learn more about our features, functionality, DAO, and ecosystem!
