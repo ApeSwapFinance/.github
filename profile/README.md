@@ -37,7 +37,7 @@ pragma solidity 0.X.X;
 - 🤳 Instagram: https://instagram.com/ape.bond
 - 🖥 GitHub: https://github.com/ApeSwapFinance
 
-Interested in learning more about ApeSwap.Finance? Head over to our [official documentation](https://apeswap.gitbook.io/apeswap-finance/welcome/master) to read and learn more about our features, functionality, DAO, and ecosystem!
+Interested in learning more about ApeBond? Head over to our [official documentation](https://docs.ape.bond/) to read and learn more about our features, functionality, DAO, and ecosystem!
 
 <!--
 
