@@ -15,13 +15,13 @@ pragma solidity 0.X.X;
           | $$                                                        
           | $$                                                        
            \$$                                                        
- * App:             https://ape.bond
+ * App:             https://Ape.Bond
  * Medium:          https://ApeBond.medium.com
  * Twitter:         https://twitter.com/ApeBond
  * Telegram:        https://t.me/ape_bond
  * Announcements:   https://t.me/ApeBond_news
  * Discord:         https://ApeBond.click/discord
- * Reddit:          https://reddit.com/r/ApeSwap
+ * Reddit:          https://ApeBond.click/reddit
  * Instagram:       https://instagram.com/ape.bond
  * GitHub:          https://github.com/ApeSwapFinance
  */
@@ -33,7 +33,7 @@ pragma solidity 0.X.X;
 - 💬 Telegram Main Group: https://t.me/ape_bond
 - 💬 Telegram Announcements: https://t.me/ApeBond_news
 - 👾 Discord: https://ApeBond.click/discord
-- 🤩 Reddit: https://reddit.com/r/ApeSwap
+- 🤩 Reddit: https://ApeBond.click/reddit
 - 🤳 Instagram: https://instagram.com/ape.bond
 - 🖥 GitHub: https://github.com/ApeSwapFinance
 
